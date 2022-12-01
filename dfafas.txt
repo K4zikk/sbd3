@@ -1,0 +1,20 @@
+1. SELECT * FROM `customers` WHERE `country`= "Germany"
+2. SELECT * FROM `customers` WHERE `city` = "Berlin"
+3. SELECT * FROM `customers` WHERE `city` = "Berlin" AND `country` = "Germany"
+4. SELECT * FROM `customers` WHERE `city` = "Berlin" OR `city` = "München" AND `country` = "Germany"
+5. SELECT * FROM `customers` WHERE `country` NOT LIKE "Germany" OR "USA" 
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
